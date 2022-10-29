@@ -1,1 +1,3 @@
 # Youtube musicas 
+
+Esse projeto ainda não está pronto, preciso terminar a interface e adiciona alguns comandos....
